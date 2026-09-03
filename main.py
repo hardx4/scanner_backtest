@@ -5,8 +5,8 @@ import pandas as pd
 URL = "https://api.hyperliquid.xyz/info"
 
 # PURR: "PURR"    KNTQ: "@334"
-COIN = "PURR"
-ASSET_NAME = "PURR"
+COIN = "@334"
+ASSET_NAME = "KNTQ"
 
 MAX_CANDLES_PER_REQUEST = 4999
 TAXA = 0.00045  # 0.045% por lado (ajuste se quiser)
